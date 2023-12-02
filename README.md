@@ -99,6 +99,8 @@ For inquiries or collaboration opportunities, please contact:
 - Special thanks to the Tailwind CSS community for providing an exceptional styling framework.
 - Acknowledge any other third-party libraries, frameworks, or tools used in the project.
 
+## deployed link : https://shiv7700.github.io/Dart-E-commerce
+
 git add .
 git commit -m "new updates"
 git push
